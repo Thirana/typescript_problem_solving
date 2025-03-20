@@ -1,3 +1,6 @@
+# Frequently Bought Together System
+
+
 You are tasked with building a product recommendation feature for an e-commerce platform, similar to Amazon’s “Customers who bought this also bought” section. Given a product, you need to suggest other products that are frequently purchased together with it, based on customer order history. The suggestions should be ranked by relevance and limited to a specified number.
 
 ## Requirements
