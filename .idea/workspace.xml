@@ -37,8 +37,9 @@
   &quot;keyToString&quot;: {
     &quot;Node.js.quesion_1.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.question_1.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.question_2.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/5 - Programming Skills/typescript_learning&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -74,7 +75,9 @@
       <updated>1742272942117</updated>
       <workItem from="1742272943132" duration="4904000" />
       <workItem from="1742278932384" duration="538000" />
-      <workItem from="1742345982501" duration="6608000" />
+      <workItem from="1742345982501" duration="7528000" />
+      <workItem from="1742361087777" duration="7464000" />
+      <workItem from="1742382127397" duration="5680000" />
     </task>
     <servers />
   </component>
@@ -88,6 +91,7 @@
         <option value="$PROJECT_DIR$/src/question_set_1/question_1/question_1.js" />
         <option value="$PROJECT_DIR$/src/question_set_1/question_1/type.js" />
         <option value="$PROJECT_DIR$/src/question_set_2/question_1/question_1.js" />
+        <option value="$PROJECT_DIR$/src/question_set_1/question_2/question_2.js" />
       </list>
     </option>
   </component>
