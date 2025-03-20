@@ -78,6 +78,7 @@
       <workItem from="1742345982501" duration="7528000" />
       <workItem from="1742361087777" duration="7464000" />
       <workItem from="1742382127397" duration="5680000" />
+      <workItem from="1742433149218" duration="4471000" />
     </task>
     <servers />
   </component>
@@ -92,6 +93,9 @@
         <option value="$PROJECT_DIR$/src/question_set_1/question_1/type.js" />
         <option value="$PROJECT_DIR$/src/question_set_2/question_1/question_1.js" />
         <option value="$PROJECT_DIR$/src/question_set_1/question_2/question_2.js" />
+        <option value="$PROJECT_DIR$/src/question_set_1/question_2/utils.js" />
+        <option value="$PROJECT_DIR$/src/question_set_1/question_2/question_2.js" />
+        <option value="$PROJECT_DIR$/src/question_set_1/question_2/data.js" />
       </list>
     </option>
   </component>
