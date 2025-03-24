@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="447d5feb-a895-49af-a036-c90984364f4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/callbacks.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/type.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/utils.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question_set_1/question_1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/question_set_1/question_1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +46,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Node.js.main.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.main.ts.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.quesion_1.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.question_1.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.question_2.js.executor&quot;: &quot;Run&quot;,
@@ -79,7 +91,11 @@
       <workItem from="1742345982501" duration="7528000" />
       <workItem from="1742361087777" duration="7464000" />
       <workItem from="1742382127397" duration="5680000" />
-      <workItem from="1742433149218" duration="6104000" />
+      <workItem from="1742433149218" duration="9770000" />
+      <workItem from="1742518419444" duration="2942000" />
+      <workItem from="1742777873932" duration="8358000" />
+      <workItem from="1742792928714" duration="7268000" />
+      <workItem from="1742822855130" duration="1013000" />
     </task>
     <servers />
   </component>
@@ -87,16 +103,18 @@
     <option name="version" value="3" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/question_set_1/question_1/quesion_1.js" />
-        <option value="$PROJECT_DIR$/src/question_set_1/question_1/data.js" />
-        <option value="$PROJECT_DIR$/src/question_set_1/question_1/types.js" />
-        <option value="$PROJECT_DIR$/src/question_set_1/question_1/question_1.js" />
+        <option value="$PROJECT_DIR$/src/question_set_3/question_1/utils.js" />
+        <option value="$PROJECT_DIR$/src/question_set_3/question_1/callbacks.js" />
         <option value="$PROJECT_DIR$/src/question_set_1/question_1/type.js" />
-        <option value="$PROJECT_DIR$/src/question_set_2/question_1/question_1.js" />
+        <option value="$PROJECT_DIR$/src/question_set_1/question_1/data.js" />
+        <option value="$PROJECT_DIR$/src/question_set_1/question_1/question_1.js" />
+        <option value="$PROJECT_DIR$/src/question_set_1/question_2/data.js" />
         <option value="$PROJECT_DIR$/src/question_set_1/question_2/question_2.js" />
         <option value="$PROJECT_DIR$/src/question_set_1/question_2/utils.js" />
-        <option value="$PROJECT_DIR$/src/question_set_1/question_2/question_2.js" />
-        <option value="$PROJECT_DIR$/src/question_set_1/question_2/data.js" />
+        <option value="$PROJECT_DIR$/src/question_set_3/question_1/type.js" />
+        <option value="$PROJECT_DIR$/src/question_set_3/question_1/main.js" />
+        <option value="$PROJECT_DIR$/src/question_set_2/question_1/question_1.js" />
+        <option value="$PROJECT_DIR$/src/question_set_3/question_1/data.js" />
       </list>
     </option>
   </component>
