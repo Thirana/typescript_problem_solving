@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="447d5feb-a895-49af-a036-c90984364f4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/callbacks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/callbacks.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/data.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/type.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/type.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question_set_3/question_1/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +85,7 @@
       <workItem from="1742518419444" duration="2942000" />
       <workItem from="1742777873932" duration="8358000" />
       <workItem from="1742792928714" duration="7268000" />
-      <workItem from="1742822855130" duration="1013000" />
+      <workItem from="1742822855130" duration="1279000" />
     </task>
     <servers />
   </component>

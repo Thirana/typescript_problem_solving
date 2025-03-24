@@ -11,3 +11,6 @@ build/
 # Ignore dependencies lock files (optional)
 package-lock.json
 yarn.lock
+
+# Ignore all .js files in src directory
+src/**/*.js
